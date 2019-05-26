@@ -5,7 +5,15 @@
 <loc>https://isaiahgodbey.com/</loc>
 </url>
 <url>
-<loc>https://isaiahgodbey.com/first-post.html</loc>
-<lastmod>2019-05-26T13:14:44-04:00</lastmod>
+<loc>https://isaiahgodbey.com/first-blog-post.html</loc>
+<lastmod>2019-05-26T13:25:27-04:00</lastmod>
+</url>
+<url>
+<loc>https://isaiahgodbey.com/first-comic-post.html</loc>
+<lastmod>2019-05-26T13:26:59-04:00</lastmod>
+<image:image>
+<image:loc>https://isaiahgodbey.com/media\posts\2/3dd52f68d81487824323f70cbe182a9a.jpg</image:loc>
+<image:title><![CDATA[Here is the image description]]></image:title>
+</image:image>
 </url>
 </urlset>

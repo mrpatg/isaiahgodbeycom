@@ -3,12 +3,34 @@
     <title>Isaiah Comics</title>
     <link href="https://isaiahgodbey.com/feed.xml" rel="self" />
     <link href="https://isaiahgodbey.com" />
-    <updated>2019-05-26T13:50:40-04:00</updated>
+    <updated>2019-05-26T14:07:54-04:00</updated>
     <author>
         <name>Isaiah Godbey</name>
     </author>
     <id>https://isaiahgodbey.com</id>
 
+    <entry>
+        <title>C4 Cake</title>
+        <author>
+            <name>Isaiah Godbey</name>
+        </author>
+        <link href="https://isaiahgodbey.com/c4-cake.html"/>
+        <id>https://isaiahgodbey.com/c4-cake.html</id>
+
+        <updated>2019-05-26T14:07:42-04:00</updated>
+            <summary>
+                <![CDATA[
+                    C4 CAKE
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image" ><img src="https://isaiahgodbey.com/media/posts/3/c4_cake_isaiahgodbey.png" alt="" width="281" height="364">
+<figcaption >C4 CAKE</figcaption>
+</figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>First Comic Post</title>
         <author>
@@ -17,7 +39,7 @@
         <link href="https://isaiahgodbey.com/first-comic-post.html"/>
         <id>https://isaiahgodbey.com/first-comic-post.html</id>
 
-        <updated>2019-05-26T13:45:47-04:00</updated>
+        <updated>2019-05-26T14:07:49-04:00</updated>
             <summary>
                 <![CDATA[
                     Here is the caption for this comic, hardy har har

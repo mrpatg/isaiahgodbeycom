@@ -3,7 +3,7 @@
     <title>Isaiah Comics</title>
     <link href="https://isaiahgodbey.com/feed.xml" rel="self" />
     <link href="https://isaiahgodbey.com" />
-    <updated>2019-05-26T13:33:54-04:00</updated>
+    <updated>2019-05-26T13:46:23-04:00</updated>
     <author>
         <name>Isaiah Godbey</name>
     </author>
@@ -17,16 +17,16 @@
         <link href="https://isaiahgodbey.com/first-comic-post.html"/>
         <id>https://isaiahgodbey.com/first-comic-post.html</id>
 
-        <updated>2019-05-26T13:26:59-04:00</updated>
+        <updated>2019-05-26T13:45:47-04:00</updated>
             <summary>
                 <![CDATA[
-                    Here is the caption description. It should be a punch line or help explain something about the comic.
+                    Here is the caption for this comic, hardy har har
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image post__image" ><img src="https://isaiahgodbey.com/media/posts/2/3dd52f68d81487824323f70cbe182a9a.jpg" alt="Here is the image description" width="1734" height="1144">
-<figcaption >Here is the caption description. It should be a punch line or help explain something about the comic.</figcaption>
+                <figure class="post__image post__image" ><img src="https://isaiahgodbey.com/media/posts/2/3dd52f68d81487824323f70cbe182a9a.jpg" alt="" width="1734" height="1144">
+<figcaption >Here is the caption for this comic, hardy har har</figcaption>
 </figure>
             ]]>
         </content>
@@ -39,15 +39,15 @@
         <link href="https://isaiahgodbey.com/first-blog-post.html"/>
         <id>https://isaiahgodbey.com/first-blog-post.html</id>
 
-        <updated>2019-05-26T13:33:49-04:00</updated>
+        <updated>2019-05-26T13:45:23-04:00</updated>
             <summary>
                 <![CDATA[
-                    This is my first blog post.
+                    here is the first blog post
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                This is my first blog post.
+                here is the first blog post
             ]]>
         </content>
     </entry>

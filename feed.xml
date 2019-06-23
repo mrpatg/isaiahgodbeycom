@@ -3,12 +3,32 @@
     <title>Isaiah Comics</title>
     <link href="https://isaiahgodbey.com/feed.xml" rel="self" />
     <link href="https://isaiahgodbey.com" />
-    <updated>2019-05-26T21:15:43-04:00</updated>
+    <updated>2019-06-23T18:34:07-04:00</updated>
     <author>
         <name>Isaiah Godbey</name>
     </author>
     <id>https://isaiahgodbey.com</id>
 
+    <entry>
+        <title>We&#x27;ve Made History.</title>
+        <author>
+            <name>Isaiah Godbey</name>
+        </author>
+        <link href="https://isaiahgodbey.com/weve-made-history.html"/>
+        <id>https://isaiahgodbey.com/weve-made-history.html</id>
+
+        <updated>2019-06-23T18:33:54-04:00</updated>
+            <summary>
+                <![CDATA[
+                    C4 Cake animated has been finished, so its now on youtube https://www.youtube.com/watch?v=YospPMks8-g
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                C4 Cake animated has been finished, so its now on youtube https://www.youtube.com/watch?v=YospPMks8-g
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>blimps</title>
         <author>

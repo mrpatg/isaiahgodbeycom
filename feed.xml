@@ -3,12 +3,61 @@
     <title>Isaiah Comics</title>
     <link href="https://isaiahgodbey.com/feed.xml" rel="self" />
     <link href="https://isaiahgodbey.com" />
-    <updated>2019-06-23T18:34:07-04:00</updated>
+    <updated>2019-11-14T15:13:26-05:00</updated>
     <author>
         <name>Isaiah Godbey</name>
     </author>
     <id>https://isaiahgodbey.com</id>
 
+    <entry>
+        <title>Comic Storm</title>
+        <author>
+            <name>Isaiah Godbey</name>
+        </author>
+        <link href="https://isaiahgodbey.com/comic-storm.html"/>
+        <id>https://isaiahgodbey.com/comic-storm.html</id>
+
+        <updated>2019-11-14T15:11:47-05:00</updated>
+            <summary>
+                <![CDATA[
+                     The Piano
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--full" ><img src="https://isaiahgodbey.com/media/posts/7/Comic-storm.png" alt="" width="1656" height="1248">
+<figcaption >
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>The Piano</p>
+</figcaption>
+</figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Blimps (animated) UPDATE</title>
+        <author>
+            <name>Isaiah Godbey</name>
+        </author>
+        <link href="https://isaiahgodbey.com/blimps-animated-update.html"/>
+        <id>https://isaiahgodbey.com/blimps-animated-update.html</id>
+
+        <updated>2019-07-31T12:51:00-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Blimps is currently having problems so we have to delay it AGAIN September 23 2019
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                Blimps is currently having problems so we have to delay it AGAIN <br>September 23 2019
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>We&#x27;ve Made History.</title>
         <author>
@@ -17,7 +66,7 @@
         <link href="https://isaiahgodbey.com/weve-made-history.html"/>
         <id>https://isaiahgodbey.com/weve-made-history.html</id>
 
-        <updated>2019-06-23T18:33:54-04:00</updated>
+        <updated>2019-11-14T15:12:45-05:00</updated>
             <summary>
                 <![CDATA[
                     C4 Cake animated has been finished, so its now on youtube https://www.youtube.com/watch?v=YospPMks8-g
@@ -25,7 +74,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                C4 Cake animated has been finished, so its now on youtube https://www.youtube.com/watch?v=YospPMks8-g
+                C4 Cake animated has been finished, so its now on youtube <a href="#INTERNAL_LINK#/post/5">https://www.youtube.com/watch?v=YospPMks8-g</a>
             ]]>
         </content>
     </entry>

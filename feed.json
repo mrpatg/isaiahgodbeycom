@@ -10,18 +10,46 @@
     },
     "items": [
         {
+            "id": "https://isaiahgodbey.com/comic-storm.html",
+            "url": "https://isaiahgodbey.com/comic-storm.html",
+            "title": "Comic Storm",
+            "summary": " The Piano",
+            "content_html": "<figure class=\"post__image post__image--full\" ><img src=\"https://isaiahgodbey.com/media/posts/7/Comic-storm.png\" alt=\"\" width=\"1656\" height=\"1248\">\n<figcaption >\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p>The Piano</p>\n</figcaption>\n</figure>",
+            "author": {
+                "name": "Isaiah Godbey"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-14T15:11:47-05:00",
+            "date_modified": "2019-11-14T15:11:47-05:00"
+        },
+        {
+            "id": "https://isaiahgodbey.com/blimps-animated-update.html",
+            "url": "https://isaiahgodbey.com/blimps-animated-update.html",
+            "title": "Blimps (animated) UPDATE",
+            "summary": "Blimps is currently having problems so we have to delay it AGAIN September 23 2019",
+            "content_html": "Blimps is currently having problems so we have to delay it AGAIN <br>September 23 2019",
+            "author": {
+                "name": "Isaiah Godbey"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-31T12:51:00-04:00",
+            "date_modified": "2019-07-31T12:51:00-04:00"
+        },
+        {
             "id": "https://isaiahgodbey.com/weve-made-history.html",
             "url": "https://isaiahgodbey.com/weve-made-history.html",
             "title": "We&#x27;ve Made History.",
             "summary": "C4 Cake animated has been finished, so its now on youtube https://www.youtube.com/watch?v=YospPMks8-g",
-            "content_html": "C4 Cake animated has been finished, so its now on youtube https://www.youtube.com/watch?v=YospPMks8-g",
+            "content_html": "C4 Cake animated has been finished, so its now on youtube <a href=\"#INTERNAL_LINK#/post/5\">https://www.youtube.com/watch?v=YospPMks8-g</a>",
             "author": {
                 "name": "Isaiah Godbey"
             },
             "tags": [
             ],
             "date_published": "2019-06-23T18:33:54-04:00",
-            "date_modified": "2019-06-23T18:33:54-04:00"
+            "date_modified": "2019-11-14T15:12:45-05:00"
         },
         {
             "id": "https://isaiahgodbey.com/blimps.html",

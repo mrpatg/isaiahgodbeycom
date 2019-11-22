@@ -3,12 +3,46 @@
     <title>Isaiah Comics</title>
     <link href="https://isaiahgodbey.com/feed.xml" rel="self" />
     <link href="https://isaiahgodbey.com" />
-    <updated>2019-11-21T22:59:32-05:00</updated>
+    <updated>2019-11-21T23:16:06-05:00</updated>
     <author>
         <name>Isaiah Godbey</name>
     </author>
     <id>https://isaiahgodbey.com</id>
 
+    <entry>
+        <title>Rock of The Wooshies Streams</title>
+        <author>
+            <name>Isaiah Godbey</name>
+        </author>
+        <link href="https://isaiahgodbey.com/rock-of-the-wooshies-streams.html"/>
+        <id>https://isaiahgodbey.com/rock-of-the-wooshies-streams.html</id>
+
+        <updated>2019-11-21T23:15:47-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Stream Dates Nov 22 7pm-10pm Nov 23 3pm-6pm Nov 23 7pm-11pm Nov 24 7am-12pm Nov 24 6pm-9pm Nov 25 NO STREAM Nov 26-Nov27 11pm-3am (ft my sister) Nov 28-29 NO STREAM Nov 30 12 HR STREAM Dec 1 NO STREAM Dec 2- Dec 31 TBA
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Stream Dates </p>
+<p>Nov 22 7pm-10pm </p>
+<p>Nov 23 3pm-6pm</p>
+<p>Nov 23 7pm-11pm</p>
+<p>Nov 24 7am-12pm</p>
+<p>Nov 24 6pm-9pm</p>
+<p>Nov 25 NO STREAM</p>
+<p>Nov 26-Nov27</p>
+<p>11pm-3am (ft my sister)</p>
+<p>Nov 28-29</p>
+<p>NO STREAM</p>
+<p>Nov 30</p>
+<p>12 HR STREAM</p>
+<p>Dec 1 NO STREAM</p>
+<p>Dec 2- Dec 31 TBA</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Comic Storm (comic 2)</title>
         <author>

@@ -3,12 +3,32 @@
     <title>Isaiah Comics</title>
     <link href="https://isaiahgodbey.com/feed.xml" rel="self" />
     <link href="https://isaiahgodbey.com" />
-    <updated>2019-11-14T15:13:26-05:00</updated>
+    <updated>2019-11-21T22:59:32-05:00</updated>
     <author>
         <name>Isaiah Godbey</name>
     </author>
     <id>https://isaiahgodbey.com</id>
 
+    <entry>
+        <title>Comic Storm (comic 2)</title>
+        <author>
+            <name>Isaiah Godbey</name>
+        </author>
+        <link href="https://isaiahgodbey.com/comic-storm-comic-2.html"/>
+        <id>https://isaiahgodbey.com/comic-storm-comic-2.html</id>
+
+        <updated>2019-11-21T22:59:19-05:00</updated>
+            <summary>
+                <![CDATA[
+                    WARNING:This Comic Contains Scenes of Suicide BE WARNED
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                WARNING:This Comic Contains Scenes of Suicide BE WARNED<img class="post__image" src="https://isaiahgodbey.com/media/posts/8/WARN.png" alt="" width="881" height="587">
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Comic Storm</title>
         <author>

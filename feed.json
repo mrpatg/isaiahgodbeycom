@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://isaiahgodbey.com/comic-storm-comic-2.html",
+            "url": "https://isaiahgodbey.com/comic-storm-comic-2.html",
+            "title": "Comic Storm (comic 2)",
+            "summary": "WARNING:This Comic Contains Scenes of Suicide BE WARNED",
+            "content_html": "WARNING:This Comic Contains Scenes of Suicide BE WARNED<img class=\"post__image\" src=\"https://isaiahgodbey.com/media/posts/8/WARN.png\" alt=\"\" width=\"881\" height=\"587\">",
+            "author": {
+                "name": "Isaiah Godbey"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-21T22:59:19-05:00",
+            "date_modified": "2019-11-21T22:59:19-05:00"
+        },
+        {
             "id": "https://isaiahgodbey.com/comic-storm.html",
             "url": "https://isaiahgodbey.com/comic-storm.html",
             "title": "Comic Storm",
